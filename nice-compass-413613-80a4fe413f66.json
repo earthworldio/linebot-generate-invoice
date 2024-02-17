@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nice-compass-413613",
+  "private_key_id": "80a4fe413f66444ee945c33b4a006f15659224b3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCL8XgtZCdm1oXy\n83M5W7OMa5XpFKMvN/FoPAPlEl2kEUCxdqfDpH7yX8D3KqVQlBzCtnZ8/x2gs8at\nKIodGMWbyGKqxJZXvXlhTUjLX9c22ficZsZGWrMmNO1CY5J15coh2YprBZedCCK+\n19w4NPGBAMxFHdIrylTwUY40n/qRyxy2un5F/DhoVOrNkOx4dNm4eBH1dvTYBAbd\naVCUtx3V45A1Dr/jyyodiXQ2La4rqud1Ed2dlK5eQLKxPJoNzT8vGWVVWWmfEznQ\nZvlUj00NLigIn8j80u00Z8VMuc0UKhKrIm5t9B9avMKbuhhq6/OJ/BqyyWgjLEhn\n2NdfcO/PAgMBAAECggEAHyWi7GNmu6ZSkOTrh+AnocDOUF7GBTvr0JnO+hyw19P5\nNKZmp45ErPhv7/M/cSROFG5dB+wWMY7h0Od9egVp8gbTIxP3LFchHW2AnrdZpL01\n7sWXKtCEICRWjFiyH+iBqTAMdU581LgbV6OewanS+LXvQRDmltWFOynDv2W99NXO\nb6Vn9RxyHgnN+eT3R0egxsWLwWDdIm3DkM3hmP+RELB805EFYRH9f2rlKjEJM2c9\npzRK8E/RyenBnFT5D3nfQ2cCND66HaiMf++QXVGVpZJObo/ZZduQTa+qn5dxYuSv\nwLUJqiqlpUyb3AIBUIoeiP4znC228v/3HJwDe0RkxQKBgQC+4KoDZc9Dyr4Ug/gE\n02Yy2kL7lxUZJRN5KVLYFU1gdA1GXIrn3aDEIAkU3rmmN8YI2BZwmnfEmpQYc0BS\nkiizoQBjRDi7ih/E5tB4TCk9ybR0Pqn6jLf4GBZrBoiI5IkdJQNjSOytNH1HAlr4\nfIy5keGgB8SDjKqI12n4oAL6FQKBgQC7sCz4qx0KwXs2XTPCKVG6j7dLO2buGHQR\nb6aP0wwE5VeDJ+hChM2pFlrUnMPsNxrGXkH3qvhNFBJ5TGAZdS9z9CGh3Anm5Q2I\nru7fyjWe9JG81GgUB9stHBuSklNDExBm611nEgi0PJXUD2sfpAnBGxhNFTGb+lOf\nqjZonFAvUwKBgBkRamKd2VWe583L8yO3G8Hr9kYSdnvh6afM7ItiaNIVC7VE7B09\ndyKqzmaGRb11r7Vzo6bQMpCIeJCpejYd6eiFaYaf7A99OWTjp1dVMUljFyb5H9u+\n5V5Y04Dkz8Oit/sy5DoC1sp8jUNpJMdjnBu28/nPa1iXfcIRAGLdqOZtAoGBAJXs\n6k+NaHqSCZlopBLCLN4JNVKsVdF1ySmwdW3IGX7DsL89HqQcL6iVCeNygnLrpcC1\nxJ5RfV0c3pD0eIN9f3Vxm3gPK/28FK6NhpVPkruyA8TCK41spSEIpeHUbxxSWzTL\naGYQGtHW35xw4JJ616vgt+3DM0i0kx4kuqefzdGvAoGABRCabeThZSehtcKr6DWA\n39NSQPsBdJiu56V+vjBExRtKWGBGTkvy3IIid9qVGeiKJnHGjK+PpqJQ5Niw4n3i\nLa/wZzNzJjP4ZuWp6VejAvvhndmQGdrt1gwahYKVZakxs3wdDwcWoJDBXOsWzjFA\ngedwAgMXd72lEvWf0LO1Fks=\n-----END PRIVATE KEY-----\n",
+  "client_email": "earthworldio@nice-compass-413613.iam.gserviceaccount.com",
+  "client_id": "101431742474023322570",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/earthworldio%40nice-compass-413613.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
