@@ -10,8 +10,8 @@ const app = express(); // Use express() to create an instance of Express
 const processDocument = require('./script')
 
 const LineConfig = {
-    channelAccessToken: env.ACCESS_TOKEN,
-    channelSecret: env.SECRET_TOKEN
+    channelAccessToken: process.env.ACCESS_TOKEN,
+    channelSecret: process.env.SECRET_TOKEN
 };
 
 const client = new line.Client(LineConfig)
